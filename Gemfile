@@ -44,6 +44,8 @@ end
 gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
 
+gem "thread_safe", "~> 0.1.3"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
